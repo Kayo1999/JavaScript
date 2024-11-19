@@ -7,3 +7,5 @@ do{
     
     contador++;
 } while(contador < meses.length);
+
+console.log("Alteracacao")
